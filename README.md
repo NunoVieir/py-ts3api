@@ -4,6 +4,6 @@
 [http://rodrigorato.github.io/py-ts3api/](http://rodrigorato.github.io/py-ts3api/)
 
 
-An attempt of a TeamSpeak 3 server API implemented in Python.
+An attempt of a TeamSpeak 3 server API implemented in Python 3.
 
 Still in a very early stage. Don't use it. Seriously.
